@@ -1,0 +1,2 @@
+	A legkisebb elem: 105.
+	A legkisebb elem: 105.43564
